@@ -1,0 +1,27 @@
+{
+  "subject": "Cool cartoon dachshund with hat and sunglasses and a vintage cap",
+  "style": "bold line art, retro cartoon mascot",
+  "color_palette": {
+    "primary": "#F5A623",
+    "secondary": "#1E3D2F"
+  },
+  "composition": {
+    "focus": "head only, facing right, slight 3/4 angle",
+    "background": "flat solid color (warm yellow-orange)",
+    "expression": "confident, cool grin with visible teeth",
+    "accessories": " vintage cap, black sunglasses",
+    "vintage cap",
+  },
+  "line_style": "thick, clean outlines with inner texture dots for shading",
+  "mood": "playful, streetwear vibe",
+  "lighting": "flat, no shadows",
+  "texture": "slight halftone dots for shading on cheeks",
+  "usage": "brand mascot for streetwear, beverage brand, or casual restaurant",
+  "file_format": "PNG, transparent background recommended for export",
+  "export_recommendations": {
+    "size": "3000x3000px for scalability",
+    "dpi": "300 for print, 72 for digital",
+    "color_mode": "RGB for digital, CMYK for print"
+  },
+  "prompt_for_generation": "A cool cartoon crocodile mascot in bold, clean line art, wearing a bucket hat and black sunglasses, with a confident grin showing sharp teeth, facing slightly right in 3/4 view. Retro mascot style with slight halftone dot shading, on a warm yellow-orange flat background. The design should have thick outlines and a playful streetwear vibe, suitable for branding."
+}
