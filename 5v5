@@ -1,0 +1,40 @@
+{
+  "subject": "NEFC Holiday Classic 5v5 Soccer Tournament Logo",
+  "style": "modern sports badge logo",
+  "color_palette": {
+    "primary": "#000000",
+    "secondary": "#FFFFFF",
+    "accent1": "#FF0000",
+    "accent2": "#FFD700",
+    "outline": "#A3C7DF",
+    "background": "#D71920"
+  },
+  "composition": {
+    "focus": "shield-shaped badge with layered text and trophy illustration",
+    "background": "red gradient background for presentation, logo with transparent background for use",
+    "text_elements": [
+      {"text": "NEFC", "position": "top", "color": "white", "background": "black"},
+      {"text": "5v5", "position": "center top", "color": "white", "background": "red"},
+      {"text": "HOLIDAY CLASSIC", "position": "center", "color": "white", "background": "black"},
+      {"text": "2024", "position": "bottom corners", "color": "white", "background": "black"}
+    ],
+    "graphic_elements": {
+      "trophy": "center bottom, gold color with black base, soccer-themed details",
+      "snowflake_tips": "side extensions in light blue within badge shape"
+    },
+    "outline": "light blue stroke outlining the entire badge shape"
+  },
+  "line_style": "clean, bold vector lines for clarity at any size",
+  "mood": "competitive, energetic, festive",
+  "lighting": "flat, high visibility colors for sports branding",
+  "texture": "flat vector with solid fills",
+  "usage": "tournament branding, event posters, merch, social media, apparel",
+  "file_format": "SVG or high-resolution PNG with transparent background",
+  "export_recommendations": {
+    "size": "4000x4000px for scalability on banners and shirts",
+    "dpi": "300 for print, 72 for digital",
+    "color_mode": "RGB for digital, CMYK for print"
+  },
+  "prompt_for_generation": "A modern sports badge logo for the NEFC Holiday Classic 5v5 soccer tournament, featuring a black shield shape with light blue outline, bold white text saying HOLIDAY CLASSIC in the center, red banner with 5v5 above it, and NEFC at the top. Includes a gold trophy illustration with a black base at the bottom center, and subtle snowflake extensions in light blue on the sides. The design should be clean, energetic, and festive, with flat vector style suitable for sports branding, apparel, and event marketing."
+}
+
